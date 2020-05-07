@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                   Welcome to Jah's Site! You are logged in!
+                    You are logged in!
                 </div>
             </div>
         </div>
