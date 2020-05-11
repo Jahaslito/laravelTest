@@ -20,6 +20,8 @@ Route::view('/', 'welcome');
 
 Auth::routes();
 
+//Route::post('/register', 'RegisterController@create');
+
 Route::get('/home', 'HomeController@index')->name('home');
 
 Auth::routes();
